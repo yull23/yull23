@@ -18,9 +18,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" alt="Figma" />
 </p>
 
