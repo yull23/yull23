@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<h3 align="center">Technologies I'm Learning</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" alt="Prisma" />
